@@ -4,8 +4,8 @@ Hi, I'm James. I have been working as a Junior Web Developer the past year. My e
 
 ## My Values
 
-&#8226;Hard Working. 
-&#8226;Always pushing my creativity. 
+&#8226;Hard Working<br />
+&#8226;Always pushing my creativity<br />
 &#8226;Curious and loves to learn
 
 
