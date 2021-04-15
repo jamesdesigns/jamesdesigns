@@ -6,6 +6,7 @@
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=JS&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Code-JAVASCRIPT-informational?style=flat&logo=JS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-REACT-informational?style=flat&logo=JS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-GATSBY-informational?style=flat&logo=JS&logoColor=white&color=2bbc8a)
 
 
 
