@@ -1,7 +1,8 @@
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![JamesDesigns GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesdesigns&show_icons=true&theme=dracula)](https://github.com/jamesdesigns/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesdesigns&theme=dracula&layout=compact&hide=C++)](https://github.com/jamesdesigns/github-readme-stats)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesdesigns&theme=dracula" />
 
 
 
