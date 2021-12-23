@@ -10,6 +10,7 @@
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesdesigns)](https://github.com/jamesdesigns/github-readme-stats)
 
 
 
