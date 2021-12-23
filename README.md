@@ -8,6 +8,8 @@
 ![](https://img.shields.io/badge/Code-REACT-informational?style=flat&logo=JS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-GATSBY-informational?style=flat&logo=JS&logoColor=white&color=2bbc8a)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
 
 
 
