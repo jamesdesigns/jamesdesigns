@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/Code-REACT-informational?style=flat&logo=JS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-GATSBY-informational?style=flat&logo=JS&logoColor=white&color=2bbc8a)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesdesigns)](https://github.com/jamesdesigns/github-readme-stats)&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesdesigns&layout=compact)](https://github.com/jamesdesigns/github-readme-stats)&nbsp;
 
 
 
