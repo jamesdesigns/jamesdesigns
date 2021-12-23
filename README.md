@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/Code-REACT-informational?style=flat&logo=JS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-GATSBY-informational?style=flat&logo=JS&logoColor=white&color=2bbc8a)
 
-![JamesDesigns GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesdesigns&show_icons=true&theme=radical)
+![JamesDesigns GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesdesigns&show_icons=true&theme=cobalt)
 
 
 
