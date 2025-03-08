@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/Code-TAILWIND-informational?style=flat&logo=JS&logoColor=white&color=2bbc8a) 
 <br>
 ![](https://img.shields.io/badge/Code-VERCEL-informational?style=flat&logo=JS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-MJML-informational?style=flat&logo=JS&logoColor=white&color=2bbc8a)
 
 
 
